@@ -1,0 +1,2 @@
+# SyncDash
+Hyper Casual Game
